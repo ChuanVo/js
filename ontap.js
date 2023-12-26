@@ -13,3 +13,6 @@ do {
     console.log(arr[i])
     i++
 } while(arr[i] != undefined)
+
+
+console.log('Hello VN')
